@@ -1,11 +1,5 @@
 # 0x02. C - Functions, nested loops
 
-## Tests
-
-* [tests](./tests): Folder of test files containing main.c files and -putchar.c.
-  * [main.c](./tests): files used to test functions
-  * [_putchar.c](./tests/_putchar.c): C function that writes a character to `stdout`.
-
 ## Tasks
 
 * **0. _putchar**
@@ -81,3 +75,11 @@
   numbers, starting with `1` and `2`, followed by a new line, without using `long long`,
   `malloc`, pointers, arrays, structures, or any library besides the standard.
   Numbers are separated by a comma followed by a space.
+
+### Header File
+* [main.h](./main.h): Header file containing prototypes of all functions
+
+### Tests
+* [tests](./tests): Folder of test files containing main.c files and -putchar.c.
+  * [main.c](./tests): files used to test functions
+  * [_putchar.c](./tests/_putchar.c): C function that writes a character to `stdout`.
