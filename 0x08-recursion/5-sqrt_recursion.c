@@ -26,7 +26,7 @@ int _sqrt_recursion(int n)
 /**
  * _sqrt -calculates natural square root of a number.
  * @num: square root number.
- * @r: root
+ * @root: root
  *
  * Return: square root
  *        -1 if the number does not have a natural square root
