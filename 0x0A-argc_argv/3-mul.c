@@ -6,7 +6,7 @@
  * @argc: argument sizw
  * @argv: argument string pointer
  *
- * Return: Always zero
+ * Return: 0 if the program receives two arguments, 1 otherwise
  */
 int main(int argc, char *argv[])
 {
