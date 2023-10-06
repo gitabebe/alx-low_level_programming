@@ -48,5 +48,6 @@
 
 ### Test Files
 
-* [tests](./tests): Folder of test files containing main.c files
+* [tests](./tests): Folder of test files containing main.c files and -putchar.c.
   * [main.c](./tests): files used to test functions.
+  * [_putchar.c](./tests/_putchar.c): C function that writes a character to `stdout`.
